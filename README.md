@@ -27,6 +27,6 @@
 
 ## 📝 Observações
 
-- No Desafio original onde o site clonado era o facebook, quando fui pegar as credencias não funcionou. Provavelmente o Facebook adicionou alguma tecnologia para bloquear esse tipo de ação da ferraamenta, assim como o LinkedIn.
+- No Desafio original onde o site clonado era o Facebook, quando fui pegar as credencias não funcionou. Provavelmente o Facebook adicionou alguma tecnologia para bloquear esse tipo de ação da ferramenta, assim como o LinkedIn.
 
 - Decidi usar a página de login da Netflix para resolução do Desafio de projeto.
