@@ -21,9 +21,9 @@
 ## ✅ Resutados
 
 ### Página Web com o Terminal:
-![Alt text](./credentials.jpg)
+![Alt text](./images/credentials.jpg)
 ### Credenciais capturadas:
-![Alt text](./credentials2.jpg)
+![Alt text](./images/credentials2.jpg)
 
 ## 📝 Observações
 
